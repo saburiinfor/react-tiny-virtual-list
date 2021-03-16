@@ -1,5 +1,5 @@
 {
-  "name": "react-tiny-virtual-list",
+  "name": "@saburiinfor/react-tiny-virtual-list",
   "version": "2.2.0",
   "description": "A tiny but mighty list virtualization component, with zero dependencies 💪",
   "main": "build/react-tiny-virtual-list.cjs.js",
@@ -23,7 +23,7 @@
     "prop-types": "^15.5.7"
   },
   "peerDependencies": {
-    "react": "15.x || 16.x"
+    "react": "15.x || 16.x || 17.x"
   },
   "devDependencies": {
     "@types/jest": "^20.0.8",
@@ -67,7 +67,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/clauderic/react-tiny-virtual-list.git"
+    "url": "https://github.com/saburiinfor/react-tiny-virtual-list.git"
   },
   "bugs": {
     "url": "https://github.com/clauderic/react-tiny-virtual-list/issues"
